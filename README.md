@@ -46,11 +46,11 @@ Break-Even Gap, Flop Rate, Film Share, Gross Share and a missing-data check.
 Power BI, DAX, Power Query
 
 ## Data
-[Name the dataset and where it comes from]
+[Marvels and DC , data taken from kaggle]
 
 ## My role
-I built the Strategic page: [add 1–2 sentences, e.g. which visuals and
-measures you built, and how you wrote the key insight]
+I built the Strategic page: Chief Strategy Officer (CSO) | 
+What does historical performance tell us about future strategy?]
 
 ## Team
 Group project with three classmates at Nackademin.
